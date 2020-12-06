@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\bin\Debug\netcoreapp3.1\07.Linq.exe
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\bin\Debug\netcoreapp3.1\07.Linq.deps.json
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\bin\Debug\netcoreapp3.1\07.Linq.runtimeconfig.json
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\bin\Debug\netcoreapp3.1\07.Linq.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\bin\Debug\netcoreapp3.1\07.Linq.dll
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\bin\Debug\netcoreapp3.1\07.Linq.pdb
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\obj\Debug\netcoreapp3.1\07.Linq.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\obj\Debug\netcoreapp3.1\07.Linq.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\obj\Debug\netcoreapp3.1\07.Linq.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\obj\Debug\netcoreapp3.1\07.Linq.dll
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\obj\Debug\netcoreapp3.1\07.Linq.pdb
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\obj\Debug\netcoreapp3.1\07.Linq.genruntimeconfig.cache
+C:\Users\Bla\source\repos\01.DataStructures\07.Linq\obj\Debug\netcoreapp3.1\07.Linq.csprojAssemblyReference.cache
