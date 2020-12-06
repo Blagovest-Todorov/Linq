@@ -1,0 +1,2 @@
+# Linq
+what is LinQ
