@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bla\\source\\repos\\01.DataStructures\\07.Linq\\07.Linq.csproj",
+      "projectUniqueName": "D:\\QA__\\GitProjects\\Linq\\07.Linq.csproj",
       "projectName": "07.Linq",
-      "projectPath": "C:\\Users\\Bla\\source\\repos\\01.DataStructures\\07.Linq\\07.Linq.csproj",
+      "projectPath": "D:\\QA__\\GitProjects\\Linq\\07.Linq.csproj",
       "packagesPath": "C:\\Users\\Bla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bla\\source\\repos\\01.DataStructures\\07.Linq\\obj\\",
+      "outputPath": "D:\\QA__\\GitProjects\\Linq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bla\\AppData\\Roaming\\NuGet\\NuGet.Config",
